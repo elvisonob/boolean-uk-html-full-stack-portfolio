@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+
+.experience{
+    text-align: center;
+    padding:20px;
+}
+
+.writing {
+    display:grid;
+    grid-auto-columns:400px 1fr 400px;
+    justify-content: center;
+    height:45vh
+
+}
+
+.footnote {
+    background-color: #191970;
+    color:white;
+    padding:15px;
+    margin-top:40px;
+}

@@ -1,0 +1,18 @@
+*{margin:0;
+padding:0;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+
+.about {text-align: center;
+    padding:20px;
+}
+
+.writing{
+    border:1px solid black;
+    display:grid;
+    grid-auto-columns: 400px 1fr 400px;
+    justify-content: center;
+    height:50vh;
+    padding:20px;
+}
